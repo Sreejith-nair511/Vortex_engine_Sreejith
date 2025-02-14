@@ -1,2 +1,6 @@
-# Vortex_engine_Sreejith
- A 2dvector engine for usage (implemented minecraft with it)
+# Minecraft
+Voxel Engine (like Minecraft) in Python and OpenGL 
+
+Control: WASDQE + mouse
+
+![minecraft](/screenshot/0.jpg)
